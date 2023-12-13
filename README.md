@@ -7,9 +7,9 @@ Actually I am unemployed and Studying Analysis and Systems Development at [Unice
 
 Learned English by myself playing video games, watching movies and in school with good teachers.
 During High School I was the best in chemistry and maths in my class. Not just that, I won a bronze medal during the 13th Brazilian Public School Mathematics Olympiad.
-After a while, I quit school due to personal choice and worked in production lines. Come back to study and know I am searching for a Job in the Technology Area.
+After a while, I quit school due to personal choice and worked in production lines. Come back to study and now I am searching for a Job in the field of technology.
 
-I learn things fast. So fast that once I was in a programming course, I was the second best studend. Sadly, the programming course was cut and I never got a certificate of conclusion 🙁.
+I learn things fast. So fast that once I was in a programming course, I was the second best student. Sadly, the programming course was cut and I never got a certificate of conclusion 🙁.
 
 ---
 
