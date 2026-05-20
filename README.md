@@ -3,19 +3,19 @@
 
 ---
 
-Actually I am unemployed and Studying Analysis and Systems Development at [Unicesumar](https://www.unicesumar.edu.br/).
+Studying at [Unicesumar](https://www.unicesumar.edu.br/).
 
-Learned English by myself playing video games, watching movies and in school with good teachers.
-During High School I was the best in chemistry and maths in my class. Not just that, I won a bronze medal during the 13th Brazilian Public School Mathematics Olympiad.
-After a while, I quit school due to personal choice and worked in production lines. Come back to study and now I am searching for a Job in the field of technology.
+Self learner who loves chimestry, physics and math.
+Bronze medalist during the 13th [Brazilian Public School Mathematics Olympiad](https://obmep.org.br/).
+Quick leaner.
+In love with game development and, of course, I use Arch btw.
 
-I learn things fast. So fast that once I was in a programming course, I was the second best student. Sadly, the programming course was cut and I never got a certificate of conclusion 🙁.
 
 ---
 
-- 🌱 I’m currently learning **Python and C.**
+- 🌱 I’m currently learning **Python and C++.**
 
-- 🤝 As for the projects I’m working on [Blender Texture Swap - DDS to PNG](https://github.com/GabrielAnacletoBaumgartner/Blender-Texture-Swap---DDS-to-PNG)
+- 🤝 As for the projects I’m working on [PyManagerPOC](https://github.com/GabrielAnacletoBaumgartner/PyManagerPOC)
 
 - ⚡ Fun fact: **I have 3 cats and two were named after a witch.**
 
